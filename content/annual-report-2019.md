@@ -2,15 +2,17 @@
 title: GraphQL Annual Report 2019
 ---
 
-## WELCOME
+The GraphQL Foundation is a neutral foundation founded by global technology and application development companies. The GraphQL Foundation encourages contributions, stewardship, and a shared investment from a broad group in vendor-neutral events, documentation, tools, and support for GraphQL.
 
-Welcome to the [2019 GraphQL Foundation annual report](). Comments and feedback are welcome at [info@graphql.org](mailto:info@graphql.org).
+The GraphQL Foundation was formed in March 2019 and has now completed one full year of operation.  We are pleased to present this annual report detailing the many things we have accomplished in support of this fast growing and broadly adopted platform.
 
-“The growth behind the technology and the community supporting GraphQL has been incredible. The GraphQL Foundation has played a critical role in helping to make GraphQL a neutral industry standard and enabling widespread adoption by encouraging contributions, and creating shared tools, and resources.”
+Comments and feedback are welcome at [info@graphql.org](mailto:info@graphql.org).
 
-_– Lee Byron, Executive Director, GraphQL Foundation, and GraphQL Co-Creator_
+> "The growth behind the technology and the community supporting GraphQL has been incredible. The GraphQL Foundation has played a critical role in helping to make GraphQL a neutral industry standard and enabling widespread adoption by encouraging contributions, and creating shared tools, and resources.""
+> 
+> – _**Lee Byron**, Executive Director, GraphQL Foundation, and GraphQL Co-Creator_
 
-## A BUSY YEAR FOR GRAPHQL
+{{< linked-h2 "A BUSY YEAR FOR GRAPHQL" toc >}}
 
 * [Who we are](#who-we-are)
 * [Cultivating Projects](#cultivating-projects)
