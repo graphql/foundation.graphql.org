@@ -30,3 +30,7 @@
     url: /members
   - name: Join
     url: /join
+- name: Annual report
+  links:
+  - name: 2019 Annual Report
+    url: /annual-report-2019
