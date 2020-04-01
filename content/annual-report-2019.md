@@ -50,7 +50,7 @@ The GraphQL Foundation also funded community member Ivan Goncharov to work throu
 
 The GraphQL Foundation [launched](https://foundation.graphql.org/news/2019/03/12/the-graphql-foundation-announces-collaboration-with-the-joint-development-foundation-to-drive-open-source-and-open-standards/) with 10 [members](https://foundation.graphql.org/members/) and we wrapped the year with 21 members in total, including Apollo, AWS, Butterfly Network, Dgraph Labs, Facebook, Gatsby, GraphZen, Hasura, IBM, Intuit, Neo4j, Novvum, Pipefy, Salsify, Solo.io and more. [Join](https://foundation.graphql.org/join/) your industry peers in helping to shape the GraphQL ecosystem.
 
-![alt_text](/img/annual-report/annual-report-1.png)
+{{< figure src="/img/annual-report/annual-report-1.png" alt="Lee presenting">}}
 
 Organizations interested in becoming members of the GraphQL Foundation or the GraphQL Specification can learn more on our [new member page](https://foundation.graphql.org/join). If you have questions about membership, please send an email to membership@graphql.org.
 
@@ -88,7 +88,7 @@ The GraphQL community is fortunate to have an active and engaged group of compan
 
 "Collaborating with the Open Source community is always special; it has allowed **AWS** to improve and better understand the use cases that customers want to tackle, such as local mocking and testing. In order to move fast and ensure that we were releasing a valuable feature, we worked for several months with community members. We want to give a special thanks to Conduit Ventures for their significant contributions to the new Amplify local mocking environment."
 
-{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/homeaway.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
+{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/expedia-group.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
 
 "GraphQL has been a huge accelerator for how **Expedia Group's** web application and service teams build APIs. Being part of the open source community is a priority for us in how we contribute back and learn from others on the same journey."
 
@@ -116,7 +116,7 @@ The GraphQL community is fortunate to have an active and engaged group of compan
 
 {{< linked-h3 "HOW OUR MEMBERS ARE USING GRAPHQL" members-using-graphql >}}
 
-{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/homeaway.svg?sanitize=true" width="200" alt="Expedia Group logo" >}} 
+{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/expedia-group.svg?sanitize=true" width="200" alt="Expedia Group logo" >}} 
 
 **Expedia Group** continues to rapidly adopt GraphQL. Over the last 2 years we have transitioned our REST APIs to GraphQL – and now over 90% of all customer interactions in web and native[vrbo.com](http://vrbo.com/) apps are powered by GraphQL APIs and over 30% of all customer interactions on Expedia.com as well as other brands such as Hotels.com.
 
@@ -146,7 +146,7 @@ Our members have been active and engaged participants in the GraphQL ecosystem. 
 * **[Apollo Server](https://www.apollographql.com/docs/apollo-server):** An open-source library for building a data graph in JavaScript that’s incrementally adoptable, production-ready, and compatible with any data source. Apollo Server defines the de-facto standard for GraphQL over HTTP and supports essential features for running GraphQL at scale such as federation, tracing, and caching.
 * **[Apollo developer tooling](https://github.com/apollographql/apollo-tooling):** The Apollo tooling repository is home to several open-source GraphQL developer tools, including the Apollo CLI and VS Code extension. These tools connect to the Apollo registry, a central hub for managing your data graph, in order to provide workflows for an excellent developer experience.
 
-{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/homeaway.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
+{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/expedia-group.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
 
 * **[GraphQL Kotlin](https://github.com/ExpediaGroup/graphql-kotlin):** Continued work on GraphQL Kotlin libraries for running GraphQL Server, including code first-schema generation and a Spring Boot based Kotlin Graphql Server. This technology powers Expedia.com and its fleet of brands like Orbitz, Wotif, & Travelocity
 * **[GraphQL Component](https://github.com/ExpediaGroup/graphql-component):** GraphQL Component is a modular graphql schema framework in javascript being utilized to build APIs for Vrbo travel and owner applications, as well as partner services and public APIs.
@@ -179,7 +179,7 @@ Our members have been active and engaged participants in the GraphQL ecosystem. 
 * [Developing and testing GraphQL APIs, Storage and Functions with Amplify Framework Local Mocking features](https://aws.amazon.com/blogs/mobile/amplify-framework-local-mocking/)
 * [Amplify DataStore – Simplify Development of Offline Apps with GraphQL](https://aws.amazon.com/blogs/aws/amplify-datastore-simplify-development-of-offline-apps-with-graphql/)
 
-{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/homeaway.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
+{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/expedia-group.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
 
 * [The Architectural Principles Behind Vrbo’s GraphQL Implementation](https://medium.com/expedia-group-tech/graphql-component-architecture-principles-homeaway-ede8a58d6fde)  
 
@@ -213,7 +213,7 @@ Our members have been active and engaged participants in the GraphQL ecosystem. 
 * [Archive of Meetup talks](https://www.youtube.com/c/GraphQLTalks). 
 * [Building modern APIs with GraphQL](https://www.youtube.com/watch?v=bRnu7xvU1_Y)
 
-{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/homeaway.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
+{{< figure src="https://raw.githubusercontent.com/graphql/graphql-landscape/master/hosted_logos/expedia-group.svg?sanitize=true" width="200" alt="Expedia Group logo" >}}
 
 * [Creating a federated schema for a global company (GraphQL Summit)](https://www.youtube.com/watch?v=MuD3TAP0D9Y) 
 
@@ -244,6 +244,8 @@ Want to start a meetup? Drop us a line, we’d love to hear your idea: info@grap
 {{< linked-h2 "GRAPHQL LANDSCAPE" graphql-landscape >}}
 
 The [GraphQL Interactive Landscape](https://landscape.graphql.org/) was recently published by the GraphQL Foundation.
+
+[{{< figure src="https://deploy-preview-100--graphql-landscape.netlify.com/images/landscape.png" width="600" >}}](https://landscape.graphql.org)
 
 What is an interactive landscape? The concept started when the CNCF began the process of cataloging different types of tools for building out a cloud native architecture. This led to the creation of the CNCF Interactive Landscape.  Turns out this tool became very helpful to all of us sorting out this new and exciting space. In the interest of providing a similar reference, the GraphQL Foundation defined their own version of the interactive landscape, including also adopters of GraphQL technology.
 
