@@ -247,7 +247,7 @@ Want to start a meetup? Drop us a line, we’d love to hear your idea: info@grap
 
 The [GraphQL Interactive Landscape](https://landscape.graphql.org/) was recently published by the GraphQL Foundation.
 
-[{{< figure src="https://deploy-preview-100--graphql-landscape.netlify.com/images/landscape.png" width="600" >}}](https://landscape.graphql.org)
+[{{< figure src="https://landscape.graphql.org/images/landscape.png" width="600" >}}](https://landscape.graphql.org)
 
 What is an interactive landscape? The concept started when the CNCF began the process of cataloging different types of tools for building out a cloud native architecture. This led to the creation of the CNCF Interactive Landscape.  Turns out this tool became very helpful to all of us sorting out this new and exciting space. In the interest of providing a similar reference, the GraphQL Foundation defined their own version of the interactive landscape, including also adopters of GraphQL technology.
 
