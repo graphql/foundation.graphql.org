@@ -8,7 +8,7 @@ summary: Playground and GraphiQL are joining forces to focus on a single codebas
 event: SAN FRANCISCO
 ---
 
-![Banner showing the Prisma and GraphQL Foundation logos with a :handshake: emoji between them](img/articles/playground/playground-transition-banner.png)
+![Banner showing the Prisma and GraphQL Foundation logos with a :handshake: emoji between them](/img/articles/playground/playground-transition-banner.png)
 
 ## GraphiQL's beginnings
 
