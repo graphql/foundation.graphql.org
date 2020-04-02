@@ -10,7 +10,7 @@ event: SAN FRANCISCO
 
 ![Banner showing the Prisma and GraphQL Foundation logos with a :handshake: emoji between them](/img/articles/playground/playground-transition-banner.png)
 
-## GraphiQL's beginnings
+### GraphiQL's beginnings
 
 The initial public commit to GraphiQL was in 2014.
 
@@ -20,7 +20,7 @@ The goal was to give people the utility packages they needed to build their own 
 
 Last year, these original engineers handed over to the graphql foundation three repositories: GraphiQL, `codemirror-graphql` and the `graphql-language-service` packages.
 
-Fast forward to now, and GraphiQL is now used by GraphQL implementations in dozens of languages, as well as hundreds of frameworks and runtimes. It's used for everything from HTTP operations, to querying local schemas, data science tools, and even for data transmission for IOT platforms. You'll find it in the AWS dashboard, Github developer tools, and many more places we are honored to see this library used.
+Fast forward to now, and GraphiQL is now used by GraphQL implementations in dozens of languages, as well as hundreds of frameworks and runtimes. It's used for everything from HTTP operations, to querying local schemas, data science tools, and even for data transmission for IOT platforms. You'll find it in the AWS dashboard, GitHub developer tools, and many more places we are honored to see this library used.
 
 ### Enter Playground
 
@@ -57,7 +57,7 @@ These new features will come with the new GraphiQL stable, for free!
 - helpers for integrating custom authentication flows
 - extensive theme, layout, and component customization abilities (you can start with the playground theme preset and work from there!)
 - custom tabs and panels
-- a first-class `graphiql-explorer` plugin in partnership with the original creators, our colleauges at [OneGraph](https://www.onegraph.com/)
+- a first-class `graphiql-explorer` plugin in partnership with the original creators, our colleagues at [OneGraph](https://www.onegraph.com/)
 
 ### How will it be re-implemented?
 
@@ -65,7 +65,7 @@ Playground 2.0 will be a GraphiQL preset that includes the custom theme as well 
 
 While the Playground team's baseline goal will be relative parity with Playground 1.0, the team will be accepting proposals for new features and plugins that build on the existing GraphQL Playground experience. The [Features Roundup](https://github.com/graphql/graphiql/projects/10) project is a great place to see what we have planned already for plugins that Playground's preset can use, or you can also create a proposal if you don't see what you're looking for.
 
-## `graphql-playground` repository next steps
+### `graphql-playground` repository next steps
 
 The existing `graphql-playground` repository will get one or two more maintenance/bugfix releases before it will be archived. You can still fork it of course. You can learn more about this in [the graphql-playground issue](https://github.com/prisma-labs/graphql-playground/issues/1143) we created for this migration.
 
