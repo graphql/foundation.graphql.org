@@ -16,7 +16,7 @@ The initial public commit to GraphiQL was in 2014.
 
 When [Lee Byron](https://github.com/leebyron), [Hyo Jeong](https://github.com/asiandrummer) and [Angel Gomez](https://github.com/AGS-) first published it, the intention was to create a minimal reference IDE development ecosystem for GraphQL. [Greg Hurrell](https://github.com/wincent) created the streaming `graphql-language-service-parser`, designed to empower the `codemirror-graphql` mode.
 
-The goal was to give people the utility packages they needed to build their own web based or desktop IDE tool, and at it's core, a relatively simple tool for folks to start learning and applying the language, and for exploring schemas. At the time, LSP was not yet a commonly accepted standard, and VSCode had yet to become the incredibly popular development tool it is today.
+The goal was to give people the utility packages they needed to build their own web based or desktop IDE tool, and at its core, a relatively simple tool for folks to start learning and applying the language, and for exploring schemas. At the time, LSP was not yet a commonly accepted standard, and VSCode had yet to become the incredibly popular development tool it is today.
 
 Last year, these original engineers handed over to the graphql foundation three repositories: GraphiQL, `codemirror-graphql` and the `graphql-language-service` packages.
 
@@ -24,7 +24,7 @@ Fast forward to now, and GraphiQL is now used by GraphQL implementations in doze
 
 ## Enter Playground
 
-Alongside GraphiQL, many of us are familiar with it's sibling - the handsome & feature-full [GraphQL Playground](https://github.com/prisma-labs/graphql-playground). Following GraphiQL's lead, it uses our `codemirror-graphql` ([Insomnia](https://insomnia.rest/graphql/), [Altair](https://altair.sirmuel.design/) and many others are also in this club!). This is why there are so many similarities between the direct editing experience of these tools.
+Alongside GraphiQL, many of us are familiar with its sibling - the handsome & feature-full [GraphQL Playground](https://github.com/prisma-labs/graphql-playground). Following GraphiQL's lead, it uses our `codemirror-graphql` ([Insomnia](https://insomnia.rest/graphql/), [Altair](https://altair.sirmuel.design/) and many others are also in this club!). This is why there are so many similarities between the direct editing experience of these tools.
 
 Playground is _exactly_ what we wanted to happen. It helped drive the development of our language ecosystem, and gave users an easier option than the more customization-oriented GraphiQL. It provided a ton of excellent features - `graphql-config` support, multiple tabs, i18n, and http server middlewares.
 
@@ -71,6 +71,6 @@ The existing `graphql-playground` repository will get one or two more maintenanc
 
 ## Call for Contributors
 
-We're also looking for contributors to form a team to develop, support and maintain a playground preset. The goal would be for them to help iterate on and stabilize the plugin API effort, as well as work towards the effort of contributing to and maintaining the playground preset and it's associated plugins. If you are interested leave comment in the [Call for Contributors Github issue](https://github.com/graphql/graphiql/issues/1443).
+We're also looking for contributors to form a team to develop, support and maintain a playground preset. The goal would be for them to help iterate on and stabilize the plugin API effort, as well as work towards the effort of contributing to and maintaining the playground preset and its associated plugins. If you are interested leave comment in the [Call for Contributors Github issue](https://github.com/graphql/graphiql/issues/1443).
 
 You can also follow the [Plugin API Proposal discussion issue](https://github.com/graphql/graphiql/issues/983) for updates.
