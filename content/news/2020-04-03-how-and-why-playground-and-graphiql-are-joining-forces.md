@@ -14,7 +14,7 @@ event: SAN FRANCISCO
 
 The initial public commit to GraphiQL was in 2014.
 
-When [Lee Byron](https://github.com/leebyron), [Hyo Jeong](https://github.com/asiandrummer) and [Angel](https://github.com/AGS-) first published it, the intention was to create a minimal reference IDE development ecosystem for GraphQL. [Greg Hurrell](https://github.com/wincent) created the streaming `graphql-language-service-parser`, designed to empower the `codemirror-graphql` mode.
+When [Lee Byron](https://github.com/leebyron), [Hyo Jeong](https://github.com/asiandrummer) and [Angel Gomez](https://github.com/AGS-) first published it, the intention was to create a minimal reference IDE development ecosystem for GraphQL. [Greg Hurrell](https://github.com/wincent) created the streaming `graphql-language-service-parser`, designed to empower the `codemirror-graphql` mode.
 
 The goal was to give people the utility packages they needed to build their own web based or desktop IDE tool, and at it's core, a relatively simple tool for folks to start learning and applying the language, and for exploring schemas. At the time, LSP was not yet a commonly accepted standard, and VSCode had yet to become the incredibly popular development tool it is today.
 
