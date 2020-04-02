@@ -24,7 +24,7 @@ Fast forward to now, and GraphiQL is now used by GraphQL implementations in doze
 
 ## Enter Playground
 
-Alongside GraphiQL, many of us are familiar with it's sibling - the handsome & feature-full [GraphQL Playground](https://github.com/prisma-labs/graphql-playground). Following GraphiQL's lead, it uses our `codemirror-graphql` ([Insomnia](https://insomnia.rest/graphql/), [Altair](https://altair.sirmuel.design/) and many others are also in this club!). This is why there are so many similarities between the direct editing experience of these tools.
+Alongside GraphiQL, many of us are familiar with its sibling - the handsome & feature-full [GraphQL Playground](https://github.com/prisma-labs/graphql-playground). Following GraphiQL's lead, it uses our `codemirror-graphql` ([Insomnia](https://insomnia.rest/graphql/), [Altair](https://altair.sirmuel.design/) and many others are also in this club!). This is why there are so many similarities between the direct editing experience of these tools.
 
 Playground is _exactly_ what we wanted to happen. It helped drive the development of our language ecosystem, and gave users an easier option than the more customization-oriented GraphiQL. It provided a ton of excellent features - `graphql-config` support, multiple tabs, i18n, and http server middlewares.
 
