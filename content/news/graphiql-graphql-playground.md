@@ -74,4 +74,4 @@ The existing `graphql-playground` repository will get one or two more maintenanc
 
 We're also looking for contributors to form a team to develop, support and maintain a playground preset. The goal would be for them to help iterate on and stabilize the plugin API effort, as well as work towards the effort of contributing to and maintaining the playground preset and its associated plugins. If you are interested leave comment in the [Call for Contributors Github issue](https://github.com/graphql/graphiql/issues/1443).
 
-You can also follow the [Plugin API Proposal discussion issue](https://github.com/graphql/graphiql/issues/983) for updates.
+You can also follow the [Plugin API Proposal discussion issue](https://github.com/graphql/graphiql/issues/983) for updates, and get involved in our [discord channel](https://discord.gg/EXUYPaY) we've created just for the playground initiative.
