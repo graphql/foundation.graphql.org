@@ -49,7 +49,7 @@ In the interest of parity, we will keep a lot of the same features, whether by i
 
 ## New Features
 
-These new features will come with the new GraphiQL stable, for free!
+These new features will come with the new `graphql@2.0.0`:
 
 - vscode style command palette (via `monaco-editor`)
 - jump to fragment or other type definitions
