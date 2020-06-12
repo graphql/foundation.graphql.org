@@ -11,7 +11,7 @@ extra:
   content: The GraphQL Foundation, joins the Google Season of Docs program to bring to incorporate the best part of learning, mentorship, and collaboration on a large scale.
 ---
 
-# GraphQL joins Google Season of Docs**.** 
+# **GraphQL joins Google Season of Docs.** 
 
 Open source communities are one of the best ways to collaborate with a larger scale of developers, it incorporates the best part of learning, mentorship, and collaboration on a large scale. 
 **Open-source** software has been proven to create large effective ecosystems of users that improve quality. It has been known for many years that the more a piece of software is used, the quicker bugs **will** be identified. In the **open-source** community when a bug is found, users contribute fixes.
