@@ -3,7 +3,7 @@ title: "GraphQL joins Google Season of Docs"
 type: announcements
 layout: news-item
 date: 2020-06-13
-author: gqlfoundation
+author: Obinna Ekwuno 
 summary: As GraphQL joins the Google Season of Docs program, here's how you can be involved. 
 event: Google Season of Docs.
 extra:
@@ -35,12 +35,12 @@ Open source organizations apply to be mentor organizations in the Season of Docs
 When you have selected a project you would like to work on contact Ivan Goncharov at [info@graphql.org](mailto:info@graphql.org) to discuss these ideas after which you will write up a project proposal and submits it to Season of Docs. 
 
 The GraphQL organization will reach out to you after they have evaluated the proposals. The accepted technical writers spend a few months working with mentors from the open-source organizations to complete their projects at the end of the program, the Google program administrators announce the projects that finished successfully.
-Check out the [official technical writer's guide.](https://developers.google.com/season-of-docs/docs/tech-writer-guide) 
+Check out the [official technical writer guide.](https://developers.google.com/season-of-docs/docs/tech-writer-guide) 
 
 
 
 ## **How long is this program?**
 
-The technical writing applications started on June 9th, 2020 and will last till July 9th, 2020. The selection process for the project submitted to organizations lasts till July 31th 2020. Then Doc development officially begins September 14, 2020, and ends**.** For a more detailed timeline check out the [official season of docs timeline](https://developers.google.com/season-of-docs/docs/timeline).
+The technical writing applications started on June 9th, 2020 and will last till July 9th, 2020. The selection process for the project submitted to organizations lasts till July 31th 2020. Then Doc development officially begins September 14, 2020, and ends. For a more detailed timeline check out the [official season of docs timeline](https://developers.google.com/season-of-docs/docs/timeline).
 
 _– **Obinna Ekwuno**, Software Enginner,DevRel GatsbyJS_
