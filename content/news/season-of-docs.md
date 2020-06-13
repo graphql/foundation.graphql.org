@@ -21,7 +21,7 @@ Open source communities are one of the best ways to collaborate with a larger sc
 
 # **What is Google Season of Docs?** 
 
-The Google Season of docs is the intersection of technical writing, open-source contribution, and mentorship. In this three month program, you will be working closely with maintainers of open source projects to improve on existing documentation and processes to better the community. 
+The Google Season of Docs is the intersection of technical writing, open-source contribution, and mentorship. In this three month program, you will be working closely with maintainers of open source projects to improve on existing documentation and processes to better the community. 
 
 For technical writers who are new to open source, the program provides an opportunity to gain experience in contributing to open source projects. 
 
