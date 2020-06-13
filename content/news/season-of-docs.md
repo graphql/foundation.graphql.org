@@ -32,7 +32,7 @@ For technical writers who're already working in open source, the program provide
 ## **How can I be a part of this?** 
 
 Open source organizations apply to be mentor organizations in the Season of Docs which includes a list of documentation project ideas with their applications. Technical writers can look through the list of proposals here are the [project ideas for the GraphQL organization](https://github.com/graphql/foundation/tree/master/mentorship/2020/gsod). 
-When you have selected a project you would like to work on contact Ivan Goncharov at [info@graphql.org](mailto:info@graphql.org) to discuss these ideas after which you will write up a project proposal and submits it to Season of Docs. 
+When you have selected a project you would like to work on, write up a project proposal and submit it to [Season of Docs](https://developers.google.com/season-of-docs). You may continue to refine your proposals until July 9th. If you need clarifications, please contact Ivan Goncharov and Uri Goldshtein by sending a message to [mentorship@lists.foundation.graphql.org](mailto:mentorship@lists.foundation.graphql.org).
 
 The GraphQL organization will reach out to you after they have evaluated the proposals. The accepted technical writers spend a few months working with mentors from the open-source organizations to complete their projects at the end of the program, the Google program administrators announce the projects that finished successfully.
 Check out the [official technical writer guide.](https://developers.google.com/season-of-docs/docs/tech-writer-guide) 
