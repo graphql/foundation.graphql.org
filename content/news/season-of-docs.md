@@ -41,6 +41,6 @@ Check out the [official technical writer guide.](https://developers.google.com/s
 
 ## **How long is this program?**
 
-The technical writing applications started on June 9th, 2020 and will last till July 9th, 2020. The selection process for the project submitted to organizations lasts till July 31th 2020. Then Doc development officially begins September 14, 2020, and ends. For a more detailed timeline check out the [official season of docs timeline](https://developers.google.com/season-of-docs/docs/timeline).
+The technical writing applications started on June 9th, 2020 and will last till July 9th, 2020. The selection process for the proposals submitted to organizations lasts till July 31st, 2020. Then Doc development officially begins September 14th, 2020, and ends December 5th, 2020. For a more detailed timeline check out the [official season of docs timeline](https://developers.google.com/season-of-docs/docs/timeline).
 
 _– **Obinna Ekwuno**, Software Enginner,DevRel GatsbyJS_
