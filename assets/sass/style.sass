@@ -28,6 +28,7 @@ $code: $primary
 $code-background: $white-bis
 $navbar-item-hover-color: lighten($primary, 10%) !important
 $navbar-item-hover-background-color: inherit !important
+$content-heading-weight: $weight-light
 
 @import "bulma/sass/utilities/derived-variables"
 
@@ -85,10 +86,6 @@ $content-blockquote-padding: 2rem 3rem
 .read-more
   margin-top: 5rem
 
-.content
-  h1, h2, h3, h4, h5, h6
-    font-weight: $weight-normal
-
 .hashlink
   @extend .icon
   font-size: inherit
@@ -102,6 +99,7 @@ $content-blockquote-padding: 2rem 3rem
 @for $i from 1 through 6
   h#{$i}
     &:hover > .headline-hash
+      margin-left: 0.75rem
       display: inline
 
 .has-gutter

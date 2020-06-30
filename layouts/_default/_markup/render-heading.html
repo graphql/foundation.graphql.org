@@ -1,0 +1,8 @@
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">
+  {{ .Text | safeHTML }}
+  <a class="headline-hash" href="#{{ .Anchor | safeURL }}">
+    <span class="icon">
+      <i class="fas fa-hashtag"></i>
+    </span>
+  </a>
+</h{{ .Level }}>
