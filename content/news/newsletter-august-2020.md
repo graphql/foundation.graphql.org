@@ -1,5 +1,5 @@
 ---
-title: "GraphQL Foundation Monthly Newsletter August 2020"
+title: GraphQL Foundation Monthly Newsletter August 2020
 type: announcements
 layout: news-item
 date: 2020-09-11
