@@ -3,12 +3,9 @@ title: "GraphQL Foundation Monthly Newsletter August 2020"
 type: announcements
 layout: news-item
 date: 2020-09-11
-author: Eli May
-summary: As the community works hard to foster the growth and adoption of GraphQL, we are excited to share the work of the community and discussions via a new monthly GraphQL Foundation newsletter. 
-extra:
-  title: "GraphQL Foundation Monthly Newsletter August 2020"
-  content: "As the community works hard to foster the growth and adoption of GraphQL, we are excited to share the work of the community and discussions via a new monthly GraphQL Foundation newsletter."
+author: gqlfoundation
 ---
+
 [GraphQL](https://graphql.org) has redefined how developers work with APIs and client-server interactions. And as the community works hard to foster the growth and adoption of GraphQL, we are excited to share the work of the community and discussions via a new monthly GraphQL Foundation newsletter.
 
 All work on GraphQL and related projects, both big and small, is important to the growth and maturity of the project, which has already seen adoption from many of the world’s largest internet-scale companies.
@@ -16,7 +13,6 @@ All work on GraphQL and related projects, both big and small, is important to th
 Many of these items are just in beginning discussions while some are further along. The goal of this monthly post is to summarize and share what’s top of mind for the community and help others get involved. These are only initial discussion topics. For notes on the full discussion during the monthly WG calls please refer to these [call notes](https://docs.google.com/document/d/1_jvxzCkI6VWo2KEobisoiW1n_irJ4dp0aD8Pq9UXuvw/edit#)
 
 ## Updates
-
 
 ### [GraphQL over WebSocket refresh, existing issues and security implications](https://github.com/enisdenjo/graphql-transport-ws/blob/master/PROTOCOL.md)
 This discussion topic proposes  taking on the following two critical items of security and bypassing the onConnect event. And possibly re-writing the WebSocket protocol from scratch with full RFCs
