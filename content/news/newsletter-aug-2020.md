@@ -15,7 +15,7 @@ All work on GraphQL and related projects, both big and small, is important to th
 
 Many of these items are just in beginning discussions while some are further along. The goal of this monthly post is to summarize and share what’s top of mind for the community and help others get involved. These are only initial discussion topics. For notes on the full discussion during the monthly WG calls please refer to these [call notes](https://docs.google.com/document/d/1_jvxzCkI6VWo2KEobisoiW1n_irJ4dp0aD8Pq9UXuvw/edit#)
 
-## UPDATES:
+## Updates
 
 
 ### [GraphQL over WebSocket refresh, existing issues and security implications](https://github.com/enisdenjo/graphql-transport-ws/blob/master/PROTOCOL.md)
@@ -44,7 +44,7 @@ This improved version allows TypeScript to infer the types automatically when an
 
 You can learn more by reading about it on his [blog post](https://the-guild.dev/blog/typed-document-node).
 
-## In Other News:
+## In Other News
 
 *   We recently welcomed the newest member of the GraphQL Foundation - [The Guild](https://the-guild.dev). [Here](https://foundation.graphql.org/members/) you can find the list of all current members of the foundation.
 *   [@hereisnaman](https://github.com/hereisnaman) successfully finished his Google Summer of Code (GSoC) project and is in the process of merging his[ PR](graphql/graphql-js#2770). Learn more about it [here](https://foundation.graphql.org/news/2020/06/30/google-summer-of-code-2020-participant-naman/). 
