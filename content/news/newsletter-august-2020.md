@@ -43,7 +43,7 @@ You can learn more by reading about it on his [blog post](https://the-guild.dev/
 ## In Other News
 
 *   We recently welcomed the newest member of the GraphQL Foundation - [The Guild](https://the-guild.dev). [Here](https://foundation.graphql.org/members/) you can find the list of all current members of the foundation.
-*   [@hereisnaman](https://github.com/hereisnaman) successfully finished his Google Summer of Code (GSoC) project and is in the process of merging his[ PR](graphql/graphql-js#2770). Learn more about it [here](https://foundation.graphql.org/news/2020/06/30/google-summer-of-code-2020-participant-naman/). 
+*   [@hereisnaman](https://github.com/hereisnaman) successfully finished his Google Summer of Code (GSoC) project and is in the process of merging his[PR](https://github.com/graphql/graphql-js/pull/2770). Learn more about it [here](https://foundation.graphql.org/news/2020/06/30/google-summer-of-code-2020-participant-naman/). 
 *   GraphQL was accepted to the Google Season of Docs (GSoD) and [@carolstran](https://github.com/carolstran) will be working on the [FAQ section](https://developers.google.com/season-of-docs/docs/participants/project-graphql-carolstran) of graphql.org 
 *   [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) was moved and is now under GraphQL Foundation
 *   [@lilianammmatos](https://github.com/lilianammmatos) and [@robrichard have](https://github.com/robrichard) made big progress on `@deferer & @stream`. Yo can learn more by watching their talk about it at the [GraphQL Summit](https://www.youtube.com/watch?v=icv_Pq06aOY): 
