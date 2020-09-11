@@ -25,7 +25,7 @@ A Tagged type defines a list of named member fields each with an associated type
 
 If you have use-cases for input polymorphism, please take a look - feedback is very welcome.
 
-### [Standardize naming for "Field coordinates"](https://github.com/graphql/graphql-spec/issues/735)
+### [Standardize naming for Field coordinates](https://github.com/graphql/graphql-spec/issues/735)
 
 This PR proposes the following 2 RFCs
 1. Formalizing the naming and definition of field coordinates (as discussed in [#735](https://github.com/graphql/graphql-spec/issues/735))
