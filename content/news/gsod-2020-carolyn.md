@@ -20,7 +20,7 @@ Learning a new technology comes with a lot of questions - and GraphQL is no exce
 
 After gaining a solid understanding of what GraphQL _really_ is, I started giving presentations at conferences about how difficult I found the learning process (literally the talk title was [Life is hard and so is learning GraphQL](https://workwithcarolyn.com/speaking/life-is-hard-and-so-is-learning-graphql)). This talk was cathartic, both for me and the audiences I was presenting to. Through my research, I also realized that while [graphql.org](https://graphql.org/) thoroughly covers the core concepts, it doesn’t directly address some of the questions you face as a new learner. 
 
-Fortunately, GraphQL has evolved enough that the information is out there and available. It’s more a matter of finding it because that information is scattered throughout various resources and programming communities. That’s why I was excited to see a Frequently Asked Questions (FAQ) page as one of the proposed Season of Docs projects. And as someone who has openly critiqued the GraphQL documentation, I wanted to play a part in actively improving them. 
+Fortunately, GraphQL has evolved enough that the information is out there and available. It’s more a matter of finding it because that information is scattered throughout various resources and programming communities. That’s why I was excited to see a [Frequently Asked Questions](https://github.com/graphql/faq) (FAQ) page as one of the proposed Season of Docs projects. And as someone who has openly critiqued the GraphQL documentation, I wanted to play a part in actively improving them. 
 
 There are two main goals behind this FAQ page:
 
