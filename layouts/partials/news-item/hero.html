@@ -2,7 +2,7 @@
 {{ $author := .Params.author }}
 {{ $date   := .Date | dateFormat "January 2, 2006" }}
 {{ $type   := .Params.type }}
-{{ $types  := (dict "announcements" "Announcement" "in-the-news" "In The News") }}
+{{ $types  := (dict "announcements" "Announcement" "in-the-news" "In The News" "graphql-newsletter" "GraphQL Newsletter") }}
 {{ $dType  := index $types $type }}
 {{ $banner := .Params.banner }}
 <section class="hero{{ if not $banner }} is-medium{{ end }}">

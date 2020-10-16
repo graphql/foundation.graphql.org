@@ -17,7 +17,7 @@
       {{ range $items }}
       {{ $date     := .Date | dateFormat "January 2, 2006" }}
       {{ $itemType := .Params.type }}
-      {{ $display  := (dict "announcements" "Announcements" "in-the-news" "In the News") }}
+      {{ $display  := (dict "announcements" "Announcements" "in-the-news" "In the News" "graphql-newsletter" "GraphQL Newsletter") }}
       {{ $type     := index $display $itemType }}
       <div class="column is-one-third">
         <div class="card">

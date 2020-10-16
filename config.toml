@@ -76,6 +76,12 @@ url = "/news/in-the-news"
 weight = 3
 
 [[menu.nav]]
+name = "GraphQL Newsletter"
+parent = "news"
+url = "/news/graphql-newsletter"
+weight = 4
+
+[[menu.nav]]
 name = "Projects"
 url = "/projects"
 weight = 4

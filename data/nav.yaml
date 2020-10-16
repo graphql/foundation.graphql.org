@@ -6,6 +6,8 @@
     url: /news/announcements
   - name: In the News
     url: /news/in-the-news
+  - name: GraphQL Newsletter
+    url: /news/graphql-newsletter
 - name: Projects
   links:
   - name: All Projects

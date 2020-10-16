@@ -1,6 +1,6 @@
 ---
 title: GraphQL Foundation Monthly Newsletter August 2020
-type: announcements
+type: graphql-newsletter
 layout: news-item
 date: 2020-09-11
 author: gqlfoundation
