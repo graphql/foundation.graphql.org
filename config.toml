@@ -10,8 +10,8 @@ description = "An open and neutral home for the GraphQL community dedicated to p
 copyright = "All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](http://www.linuxfoundation.org/privacy) and [Terms of Use](http://www.linuxfoundation.org/terms)."
 
 [params.logos]
-hero   = "graphql-foundation.png"
-navbar = "graphql-foundation.png"
+hero   = "graphql-foundation.svg"
+navbar = "graphql-foundation.svg"
 footer = "graphql-icon.svg"
 topper = "lf-projects.png"
 
