@@ -28,9 +28,9 @@ There are no fees to participate in GraphQL Specification development.
 
 **Who should use this agreement?**
 
-If you are planning to work on GraphQL for your employer, please ask an appropriate person to complete the corporate GraphQL Specification Membership application. ([preview](/files/GraphQL_Specification-Corporate-Preview.pdf))
+If you are planning to work on GraphQL for your employer, please ask an appropriate person to complete the corporate GraphQL Specification Membership application. ([preview](https://preview-spec-membership.graphql.org))
 
-To join, please [complete the corporate membership application](https://corporate-spec-membership.graphql.org).
+To join, please open a PR against a GraphQL repo ([instructions](https://corporate-spec-membership.graphql.org)).
 
 {{< /card >}}
 {{< card >}}
@@ -41,9 +41,9 @@ There are no fees to participate in GraphQL Specification development.
 
 **Who should use this agreement?**
 
-If you are planning to work on GraphQL as an individual or if you are a student, please complete the individual GraphQL Specification Membership application. ([preview](/files/GraphQL_Specification-Individual-Preview.pdf))
+If you are planning to work on GraphQL as an individual or if you are a student, please complete the individual GraphQL Specification Membership application. ([preview](https://preview-spec-membership.graphql.org))
 
-To join, please [complete the individual membership application](https://individual-spec-membership.graphql.org).
+To join, please open a PR against a GraphQL repo ([instructions](https://individual-spec-membership.graphql.org)).
 
 {{< /card >}}
 {{< /cards >}}
