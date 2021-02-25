@@ -43,7 +43,7 @@ There's inconsistency in the handling of default values between user-supplied de
 *   [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 *   [Hasura launched a 3 week series of articles, live-streams, and A.M.As for GraphQL beginners and experts.](https://hasura.io/blog/graphql-january-with-hasura/)
 *   [Prisma announced Nexus 1.0: A Major Release for Type-Safe, Code-First GraphQL APIs](https://www.prisma.io/blog/announcing-the-release-of-nexus-schema-v1-b5eno5g08d0b)
-*   ZDNet: [2021 Technology trend review: Cloud, Kubernetes, and GraphQL](zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/)
+*   ZDNet: [2021 Technology trend review: Cloud, Kubernetes, and GraphQL](https://zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/)
 *   TechTarget: [Enterprise application trends that will impact 2021: GraphQL vs. REST choice steers microservices development](https://searchapparchitecture.techtarget.com/feature/Enterprise-application-trends-that-will-impact)
 *   [Top 20 GraphQL Jobs Postings](https://www.dice.com/jobs/q-GraphQL-jobs)
 *   GraphQL Galaxy’s talk uploaded online, [check out the Keynote](https://youtu.be/mfg6ZJ2GGRc)!
