@@ -10,3 +10,9 @@ command = "make preview-build"
 
 [context.branch-deploy]
 command = "make preview-build"
+
+[[redirects]]
+  from = "/test-path"
+  to = "https://graphql.org"
+  status = 301
+  force = false
