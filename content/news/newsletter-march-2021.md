@@ -1,5 +1,5 @@
 ---
-title: GraphQL Foundation Monthly Newsletter April 2021
+title: GraphQL Foundation Monthly Newsletter March 2021
 type: graphql-newsletter
 layout: news-item
 date: 2021-03-31
@@ -38,6 +38,7 @@ Oneof Input Objects are a special variant of Input Objects where the type system
 
 ## In Other News...
 
+*   ZDNet: [Databases, graphs, and GraphQL: The past, present, and future](https://www.zdnet.com/article/databases-graphs-and-graphql-past-present-and-future/)
 *   ZDNet: [Hasura connects GraphQL to the REST of the world](https://www.zdnet.com/article/hasura-connects-graphql-to-the-rest-of-the-world/)
 *   ADT Mag: [Netflix Open Sources GraphQL for Spring Boot](https://adtmag.com/articles/2021/02/17/netflix-open-sources-graphql-for-spring-boot.aspx)
 *   ProgrammableWeb: [Facebook Adds Relay Hooks for Improved GraphQL Data Fetching](https://www.programmableweb.com/news/facebook-adds-relay-hooks-improved-graphql-data-fetching/brief/2021/03/11)
