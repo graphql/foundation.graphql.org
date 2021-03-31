@@ -1,5 +1,5 @@
 ---
-title: GraphQL Foundation Monthly Newsletter April 2021
+title: GraphQL Foundation Monthly Newsletter March 2021
 type: graphql-newsletter
 layout: news-item
 date: 2021-03-31
