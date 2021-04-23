@@ -10,3 +10,201 @@ command = "make preview-build"
 
 [context.branch-deploy]
 command = "make preview-build"
+
+[[redirects]]
+  from = "/news/2018/11/12/channel-futures-graphql-api-query-language-growing-gets-own-support-foundation"
+  to = "https://graphql.org/blog/2018-11-12-channel-futures-graphql-api-query-language-growing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/06/the-linux-foundation-announces-intent-to-form-new-foundation-to-support-graphql"
+  to = "https://graphql.org/blog/2018-11-06-linux-foundation-announces-intent-to-form-new-foundation-to-support-graphql"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/06/infoworld-graphql-gets-its-own-foundation"
+  to = "https://graphql.org/blog/2018-11-06-infoworld-graphql-gets-its-own-foundation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/06/eweek-graphql-api-specification-moving-forward-with-independent-foundation"
+  to = "https://graphql.org/blog/2018-11-06-eweek-graphql-api-specification-moving-forward-with-independent-foundation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/07/datanami-will-graphql-become-a-standard-for-the-new-data-economy"
+  to = "https://graphql.org/blog/2018-11-07-datanami-will-graphql-become-a-standard-for-the-new-data-economy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/07/sd-times-the-linux-foundation-announces-plans-to-form-graphql-foundation"
+  to = "https://graphql.org/blog/2018-11-07-sd-times-lf-announces-plans-to-form-graphql-foundation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2018/11/07/the-register-facebooks-open-source-license-drama-zone-graphql-gets-swanky-digs-in-linux-mansion"
+  to = "https://graphql.org/blog/2018-11-07-the-register"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/12/08/improving-latency-with-defer-and-stream-directives"
+  to = "https://graphql.org/blog/2020-12-08-improving-latency-with-defer-and-stream-directives"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/06/13/graphql-joins-google-season-of-docs"
+  to = "https://graphql.org/blog/2020-06-13-graphql-joins-google-season-of-docs"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/06/30/google-summer-of-code-2020-participant-naman"
+  to = "https://graphql.org/blog/2020-06-30-gsoc-2020-participant-naman"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/09/21/google-season-of-docs-2020-participant-carolyn-stransky"
+  to = "https://graphql.org/blog/2020-09-21-gsod-carolyn-stransky"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/09/11/graphql-foundation-monthly-newsletter-august-2020"
+  to = "https://graphql.org/blog/2020-09-11-graphql-foundation-monthly-newsletter-august-2020"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/10/15/graphql-foundation-monthly-newsletter-september-2020"
+  to = "https://graphql.org/blog/2020-10-15-graphql-foundation-monthly-newsletter-september-2020"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/11/12/graphql-foundation-monthly-newsletter-october-2020"
+  to = "https://graphql.org/blog/2020-11-12-graphql-foundation-monthly-newsletter-october-2020"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/04/02/announcing-the-1st-graphql-foundation-annual-report"
+  to = "https://graphql.org/blog/2020-04-02-announcing-the-first-graphql-foundation-annual-report"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2020/04/03/web-based-graphql-ides-for-the-win-how-why-playground-graphiql-are-joining-forces"
+  to = "https://graphql.org/blog/2020-04-03-web-based-graphql-ides-for-the-win"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2021/02/15/graphql-foundation-monthly-newsletter-february-2021"
+  to = "https://graphql.org/blog/2021-02-15-graphql-foundation-monthly-newsletter-february-2021"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2021/03/31/graphql-foundation-monthly-newsletter-march-2021"
+  to = "https://graphql.org/blog/2021-03-31-graphql-foundation-monthly-newsletter-march-2021"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2019/10/31/linux-foundation-training-announces-a-free-online-course-exploring-graphql-a-query-language-for-apis"
+  to = "https://graphql.org/blog/2019-10-31-linux-foundation-training-announces-free-online-course-exploring-graphql"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2019/10/28/graphql-foundation-launches-interactive-landscape-and-welcomes-new-members-from-open-source-summit-europe"
+  to = "https://graphql.org/blog/2019-10-28-graphql-foundation-launches-interactive-landscape-welcomes-new-members"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2019/03/12/the-graphql-foundation-announces-collaboration-with-the-joint-development-foundation-to-drive-open-source-and-open-standards"
+  to = "https://graphql.org/blog/2019-03-12-graphql-foundation-announces-collaboration-with-jdf"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/2017/11/08/programmableweb-graphql-moving-to-neutral-open-source-foundation"
+  to = "https://graphql.org/blog/2017-11-08-programmableweb-graphql-moving-to-neutral-open-source-foundation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/graphql-newsletter"
+  to = "https://graphql.org/tags/newsletter"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/in-the-news"
+  to = "https://graphql.org/tags/in-the-news"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news/announcements"
+  to = "https://graphql.org/tags/announcements"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news"
+  to = "https://graphql.org/blog/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reports/annual-report-2019"
+  to = "https://graphql.org/foundation/annual-reports/2019/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/members"
+  to = "https://graphql.org/foundation/members/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/projects"
+  to = "https://graphql.org/community/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact"
+  to = "https://graphql.org/foundation/contact/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/join"
+  to = "https://graphql.org/foundation/join/#graphql-foundation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/faq"
+  to = "https://graphql.org/faq"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://graphql.org/foundation"
+  status = 301
+  force = true
