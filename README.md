@@ -1,5 +1,13 @@
 # GQL Foundation website
 
+---
+
+***Notice: This site is now deprecated and the content has moved to graphql.org***
+
+Any future PRs should be against https://github.com/graphql/graphql.github.io
+
+---
+
 This site is built using [Hugo](https://gohugo.io) and hosted on [Netlify](https://netlify.com).
 
 ## Running the site locally {#running}
