@@ -1,15 +1,15 @@
 [build]
-publish = "public
-command = "make production-build
+publish = "public"
+command = "make production-build"
 
 [build.environment]
-HUGO_VERSION = "0.68.3
+HUGO_VERSION = "0.68.3"
 
 [context.deploy-preview]
-command = "make preview-build
+command = "make preview-build"
 
 [context.branch-deploy]
-command = "make preview-build
+command = "make preview-build"
 
 [[redirects]]
   from = "/news/2018/11/12/channel-futures-graphql-api-query-language-growing-gets-own-support-foundation"
